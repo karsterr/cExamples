@@ -1,2 +1,5 @@
-# cExamples
-My roadmap to learning C/C++
+# Hey Yonuyle C Ornekleri
+
+Compilation of "Her Yonuyle C" examples.
+
+## Index
