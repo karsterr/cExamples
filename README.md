@@ -1,5 +1,5 @@
 # Hey Yonuyle C Ornekleri
 
-Compilation of "Her Yonuyle C" examples.
+My roadmap to learn C/C++.
 
 ## Index
