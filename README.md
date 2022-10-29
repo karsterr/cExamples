@@ -1,4 +1,4 @@
-# Hey Yonuyle C Ornekleri
+# C Examples
 
 My roadmap to learn C/C++.
 
